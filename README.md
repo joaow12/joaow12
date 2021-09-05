@@ -4,5 +4,7 @@ Meu nome é João Victor, sou formado em Análise e desenvolvimento de sistemas 
 
 Caso queira entrar em contato 📧:
 
-joaoalmeida.victor28@gmail.com ou https://www.linkedin.com/in/joaow-victor/
+G-mail: joaoalmeida.victor28@gmail.com
+
+Linkedin: https://www.linkedin.com/in/joaow-victor/
 
