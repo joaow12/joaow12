@@ -2,6 +2,8 @@
 
 Meu nome é João Victor, sou formado em Análise e desenvolvimento de sistemas pela universidade Cruzeiro do Sul e criei esse GitHub com o propósito de mostrar meus conhecimentos em algumas linguagens.
 
+Site com alguns outros projetos em HTML/CSS: https://joaow.000webhostapp.com/
+
 Caso queira entrar em contato 📧:
 
 G-mail: joaoalmeida.victor28@gmail.com
